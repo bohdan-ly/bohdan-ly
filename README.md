@@ -2,7 +2,7 @@
 This is the place where I developing myself as strong Front-end developer and great team-lead 🦾
 
 - 🔭 &nbsp;I’m currently working on collaborative platform for discovering tehc-solutions  🌐
-- 🌱 &nbsp;I’m currently learning UI/UX Design, Solidity and NextJS
+- 🌱 &nbsp;I’m currently learning UI/UX Design, ThreeJS, Solidity and NextJS
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/React/Web3 or building strong enterprise solutions
 - 👨‍💻 &nbsp;Read more about me at [LinkedIn](https://www.linkedin.com/in/bohdan-ly/)
 - ⚡ &nbsp;Fun fact: I like art and games🎮, and was qualified to [INT20H](https://int20h.best-kyiv.org/) 
