@@ -1,5 +1,5 @@
 ### Hi there <a href="https://www.linkedin.com/in/bohdan-lishchenko-4740a11a8/"><img height="24px" width="24px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-This is the place where I developing myself as strong Front-end developer and great team-lead 🦾
+This is the place where I developing myself as strong Software developer and great team-lead 🦾
 
 - 🔭 &nbsp;I’m currently working on collaborative platform for discovering tehc-solutions  🌐
 - 🌱 &nbsp;I’m currently learning UI/UX Design, ThreeJS, Solidity and NextJS
