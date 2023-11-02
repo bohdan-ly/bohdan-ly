@@ -15,7 +15,7 @@ This is the place where I developing myself as strong Software developer and gre
   
 ### ✨&nbsp; About Me
 
-I am a Front-end Developer with 3+ years of experience in developing enterprise applications.
+I am a Full-stack Developer with 5 years of experience in developing enterprise applications.
 
 
 During my free time, I actively learn new technologies and skills. I'm well-organized, self-motivated, resourceful, and able to motivate others, with excellent communication and interpersonal skills. I'm stubborn in achieving the final result, ready to do complex work, learn new technologies/get new knowledge. I've been creating complex applications on React and JavaScript for more than 3 years. I strive to become a successful Front-end/Solidity developer. 
