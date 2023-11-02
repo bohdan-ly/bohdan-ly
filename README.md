@@ -18,7 +18,7 @@ This is the place where I developing myself as strong Software developer and gre
 I am a Full-stack Developer with 5 years of experience in developing enterprise applications.
 
 
-During my free time, I actively learn new technologies and skills. I'm well-organized, self-motivated, resourceful, and able to motivate others, with excellent communication and interpersonal skills. I'm stubborn in achieving the final result, ready to do complex work, learn new technologies/get new knowledge. I've been creating complex applications on React and JavaScript for more than 3 years. I strive to become a successful Front-end/Solidity developer. 
+During my free time, I actively learn new technologies and skills. With 4 years of hands-on tech industry experience, I'm an experienced developer committed to continuous personal growth. My focus is mastering strategic planning and leadership to build high-performing teams. I aim to deliver exceptional products globally. I've also fostered technical collaboration between a Dutch startup and giants like Unilever and Medtronic.
 <br/>
 <p align="center">
 🏆 My main goal is to develop a leading worldwide product and become a great Team Lead in the future. 🏆
