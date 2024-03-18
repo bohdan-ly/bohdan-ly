@@ -6,7 +6,7 @@ This is the place where I developing myself as strong Software developer and gre
 - 🏆 &nbsp;I’m [certificated](https://threejs-journey.com/certificate/view/27856) ThreeJS developer
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/React/Web3 or building strong enterprise solutions
 - 👨‍💻 &nbsp;Read more about me at [LinkedIn](https://www.linkedin.com/in/bohdan-ly/)
-- ⚡ &nbsp;Fun fact: I like art and games🎮, and was qualified to [INT20H](https://int20h.best-kyiv.org/) and got solo-win in [IT'Revolution23](https://www.instagram.com/p/CwFL2YmNgSj/)
+- ⚡ &nbsp;Fun fact: I like art and games🎮, and was qualified to [INT20H](https://int20h.best-kyiv.org/) and got a solo win in [IT'Revolution23](https://www.instagram.com/p/CwFL2YmNgSj/)
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
