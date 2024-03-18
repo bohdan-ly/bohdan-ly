@@ -1,12 +1,12 @@
 ### Hi there <a href="https://www.linkedin.com/in/bohdan-lishchenko-4740a11a8/"><img height="24px" width="24px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 This is the place where I developing myself as strong Software developer and great team-lead 🦾
 
-- 🔭 &nbsp;I’m currently working on collaborative platform for discovering tehc-solutions  🌐
-- 🌱 &nbsp;I’m currently learning UI/UX Design, ThreeJS, Solidity and NextJS
+- 🔭 &nbsp;I’m currently working on crypto-wallet for holding digital assets 💸
+- 🌱 &nbsp;I’m currently mastering Strategic Planning, ThreeJS, Solidity and NextJS
 - 🏆 &nbsp;I’m [certificated](https://threejs-journey.com/certificate/view/27856) ThreeJS developer
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/React/Web3 or building strong enterprise solutions
 - 👨‍💻 &nbsp;Read more about me at [LinkedIn](https://www.linkedin.com/in/bohdan-ly/)
-- ⚡ &nbsp;Fun fact: I like art and games🎮, and was qualified to [INT20H](https://int20h.best-kyiv.org/) 
+- ⚡ &nbsp;Fun fact: I like art and games🎮, and was qualified to [INT20H](https://int20h.best-kyiv.org/) and got solo-win in [IT'Revolution23](https://www.instagram.com/p/CwFL2YmNgSj/)
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
